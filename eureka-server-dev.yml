@@ -3,6 +3,7 @@ spring:
   name: eureka-server
 server:
   port: 8761
+myVariable: issoehteste
 
 # Definir para que o servidor não se registra em um servidor eureka
 eureka:
